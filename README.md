@@ -18,6 +18,11 @@ Cloning the repo from Github. Then install Node.js. This application requires In
 ## Usage
 This application will allow users to view, add, and edit employees, roles, departments, and managers
 
+
+https://user-images.githubusercontent.com/95494071/154380116-f0cdb77a-d571-4c1a-9d27-784681c95bca.mp4
+<br/>[click here to view video](https://user-images.githubusercontent.com/95494071/154380116-f0cdb77a-d571-4c1a-9d27-784681c95bca.mp4
+)
+
 ## License
 MIT
 Info on license: https://opensource.org/licenses/MIT
